@@ -28,7 +28,7 @@ const About = () => {
                                 I'm an Application Developer with strong technical aptitude in Java, Spring Boot, and microservices architecture, with hands-on experience building RESTful APIs and event-driven systems.
                             </p>
                             <p>
-                                With 7+ years in the industry, I've led teams, architected scalable solutions, and delivered high-impact features at ThoughtWorks and Wipro Technologies.
+                                With 9+ years in the industry, I've led teams, architected scalable solutions, and delivered high-impact features at ThoughtWorks and Wipro Technologies.
                             </p>
                             <p>
                                 I'm passionate about performance optimization, automated testing, and building systems that handle millions of records efficiently.
@@ -37,7 +37,7 @@ const About = () => {
 
                         <div className="mt-8 flex gap-4">
                             <div className="text-center">
-                                <h3 className="text-3xl font-bold text-white">7+</h3>
+                                <h3 className="text-3xl font-bold text-white">9+</h3>
                                 <p className="text-sm text-gray-500">Years Exp.</p>
                             </div>
                             <div className="w-px bg-white/10" />
